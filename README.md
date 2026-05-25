@@ -49,5 +49,23 @@ Tools/LLMs for Video Generation:
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated Videos, along with any adjustments made to the prompt.
 
+# 1. Create the Basic Prompt
+
+# Basic Prompt:
+
+“A beautiful landscape with mountains and a river during sunset.”
+
+# Output
+
+
+# 2. Refine the Prompt with More Details
+
+# Refined Prompt:
+
+“A serene landscape during sunset with purple mountains, a calm river reflecting the golden sky, soft clouds, and green trees along the riverbank.”
+
+# Output
+
+
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
