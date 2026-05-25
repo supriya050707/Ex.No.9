@@ -77,5 +77,33 @@ https://github.com/user-attachments/assets/b59f8e3e-04bb-4e7d-8ceb-0dc7cdc8291c
 
 https://github.com/user-attachments/assets/9911607a-a71c-4db3-bbea-ce8541fc5735
 
+# Video Generation Tools Used
+
+# 1. OpenAI – DALL·E
+AI-based image/video generation tool
+
+Produces realistic visuals from text prompts
+
+# 2. Stability AI – Stable Diffusion
+Open-source AI model
+
+Supports customizable video generation
+
+# 3. Midjourney – MidJourney
+Generates artistic and visually appealing outputs
+
+Popular for creative cinematic visuals
+
+# Comparison Report
+
+| Feature          | Original Video           | Generated Video                        |
+| ---------------- | ------------------------ | -------------------------------------- |
+| Mountains        | Purple mountains visible | Similar purple mountains generated     |
+| River Reflection | Golden sunset reflection | Reflection reproduced effectively      |
+| Lighting         | Warm sunset lighting     | Similar cinematic lighting achieved    |
+| Clouds           | Soft moving clouds       | Clouds generated with realistic motion |
+| Style            | Realistic cinematic      | Closely matched cinematic style        |
+| Camera Movement  | Smooth motion            | AI-generated smooth movement           |
+
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
